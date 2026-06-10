@@ -12,7 +12,6 @@
 - 🧑‍🎓 I'm a **student** who wants to grow through open source.
 - 🔭 I'm currently diving into **vLLM** — a high-throughput LLM inference engine.
 - 💬 I love reading code, running benchmarks, and writing small fixes.
-- 📫 How to reach me: **your-email@example.com** (put your real email)
 - ⚡ Fact: I believe the best way to learn a project is to contribute to it.
 
 ---
